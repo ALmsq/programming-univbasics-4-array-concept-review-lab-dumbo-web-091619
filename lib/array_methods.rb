@@ -13,4 +13,5 @@ end
 
 def find_min_value(array)
   # Add your solution here
+  p array.min
 end
